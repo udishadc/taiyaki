@@ -1,0 +1,4 @@
+h5py
+parameterized
+pytest-xdist
+future
